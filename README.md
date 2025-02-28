@@ -9,4 +9,5 @@ This project consisted of two components:
   * Phase 3: Deadlock Creation
   * Phase 4: Deadlock Resoution
 
-* Inter-Process Communication with pipes (|).
+* Inter-Process Communication with pipes (|). One process being the producer that sends data through a pipe, while the other process, the consumer, reading it.
+
