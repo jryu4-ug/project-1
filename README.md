@@ -18,8 +18,8 @@ This project consisted of two components:
  - A C++ compiler (g++)
  - A code editor or IDE of your choice
  - Open terminal, run commands:
-  - sudo apt update
-  - sudo apt install build-essential
+   - sudo apt update
+   - sudo apt install build-essential
 
 2. Download Project Source Code
  - "Bank Simulation.cpp", producer.cpp, consumer.cpp
